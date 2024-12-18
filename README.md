@@ -1,6 +1,6 @@
 # PYProject - Environmental Impact Assessment  
 
-This project is a web application designed to help users calculate and understand their environmental impact. It calculates the carbon footprint based on personal data like energy use, waste, and business travel. The app also generates a detailed PDF report with all the inputs and results.
+Introducing an intuitive web application that enables users to evaluate their environmental impact by analyzing personal data such as energy consumption, waste production, and business travel. The application provides a comprehensive PDF report detailing all inputs and results.
 
 ---
 
@@ -13,9 +13,10 @@ This project is a web application designed to help users calculate and understan
 ---
 
 ## Tools and Technologies  
-- Frontend: HTML and CSS with a attractive design.  
-- Backend: Flask, a Python web framework.  
-- PDF Generator: FPDF, a Python library.  
+--Frontend: Developed using HTML and CSS, featuring a user-centric design.
+--Backend: Implemented with Flask, leveraging Python's web framework capabilities.
+--PDF Generation: Utilizes the FPDF library for creating reports.
+
 
 ---
 
@@ -75,7 +76,7 @@ README.md        # Documentation file describing the project, features, and setu
 ---
 
 ## Contributing  
-Want to contribute in these Project? Great! You can fork this project, make changes, and submit a pull request. Ensure your code is clean and well-tested and making good sence.  
+Interested in contributing to this project? You're welcome to fork the repository, implement your improvements, and submit a pull request. Please ensure your code is well-documented, thoroughly tested, and logically sound.  
 
 ---
 
